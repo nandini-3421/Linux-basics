@@ -1,6 +1,6 @@
 Beginner-friendly notes for cybersecurity and SOC learning
 
-## 📁 1. Linux Directory Structure (Most Important Paths)
+## 1. Linux Directory Structure (Most Important Paths)
 Path	Purpose
 /	Root directory (top of filesystem)
 /home/	User home folders
@@ -10,7 +10,7 @@ Path	Purpose
 /opt/	Optional/3rd-party software
 /tmp/	Temporary files
 
-## 📌 2. Basic File & Directory Commands
+## 2. Basic File & Directory Commands
 Navigation
 ls
 ls -l
@@ -27,14 +27,14 @@ mkdir testfolder
 rmdir emptyfolder
 rm -r foldername
 
-## 📌 3. Viewing File Content
+## 3. Viewing File Content
 cat filename
 less filename
 head filename
 tail filename
 tail -f /var/log/auth.log
 
-## 📌 4. Users & Permissions
+## 4. Users & Permissions
 Check file permissions
 ls -l
 Change file permissions
@@ -49,7 +49,7 @@ sudo deluser username
 groups username
 id username
 
-## 📌 5. Processes & System Monitoring
+## 5. Processes & System Monitoring
 List running processes
 ps aux
 top
@@ -62,7 +62,7 @@ systemctl status apache2
 systemctl start apache2
 systemctl stop apache2
 
-## 📌 6. Network Commands
+## 6. Network Commands
 ip a
 ifconfig
 ping google.com
@@ -75,7 +75,7 @@ Check open ports
 ss -tuln
 netstat -tulnp
 
-## 📌 7. Important Log Files
+## 7. Important Log Files
 Log File	Description
 /var/log/syslog	System activity
 /var/log/auth.log	Authentication events
@@ -86,12 +86,14 @@ journalctl
 grep "Failed" /var/log/auth.log
 grep "error" /var/log/syslog
 
-## 📌 8. Basic Bash Scripting
+## 8. Basic Bash Scripting
 Example script:
 
 #!/bin/bash
 echo "Hello, this is my first script"
 
-Make executable:
+# Make executable:
+chmod +x script.sh
+./script.sh
 chmod +x script.sh
 ./script.sh
