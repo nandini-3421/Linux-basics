@@ -1,4 +1,4 @@
-# 🐧 Linux for Cybersecurity — Fundamentals & Practical Labs
+# Linux for Cybersecurity — Fundamentals & Practical Labs
 
 This repository contains my personal notes, practical labs, and exercises while learning **Linux for Cybersecurity**, specifically targeting **SOC Analyst**, **Cybersecurity Analyst**, and **Blue Team** roles.
 
@@ -13,7 +13,7 @@ The purpose of this repository is to build a strong foundation in:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 /
 ├── Linux Basics Notes.md
 ├── Linux Permissions Lab.md (coming soon)
@@ -24,26 +24,26 @@ The purpose of this repository is to build a strong foundation in:
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
-### ✔ Understand Linux deeply  
+### Understand Linux deeply  
 Linux is the backbone of servers, cybersecurity tools, SIEM agents, and monitoring systems.
 
-### ✔ Build hands-on security skills  
+### Build hands-on security skills  
 Real SOC work requires:
 - Reading logs  
 - Checking suspicious processes  
 - Monitoring users  
 - Investigating network activity  
 
-### ✔ Create a portfolio for recruiters  
+### Create a portfolio for recruiters  
 Each file in this repository demonstrates practical, job‑relevant skills.
 
 ---
 
-## 📘 What’s Included
+## What’s Included
 
-### **1️⃣ Linux Basics Notes**
+### **1️ Linux Basics Notes**
 A detailed breakdown of:
 - Directory structure  
 - Important system paths  
@@ -53,13 +53,13 @@ A detailed breakdown of:
 - Network utilities  
 - Log file locations  
 
-### **2️⃣ Labs (Added Daily)**
+### **2️ Labs (Added Daily)**
 - User & Permission Lab  
 - Networking Lab  
 - Log Analysis Lab  
 - Security Audit Project  
 
-### **3️⃣ Bash Scripts**
+### **3️ Bash Scripts**
 Simple automation scripts for:
 - Failed login detection  
 - Port scanning  
@@ -67,7 +67,7 @@ Simple automation scripts for:
 
 ---
 
-## 🔥 Why This Repository Exists
+## Why This Repository Exists
 
 This is part of my journey to become a **Cybersecurity Professional**, following a structured roadmap focused on:
 
@@ -80,7 +80,7 @@ If you are a beginner in cybersecurity, these notes can serve as a reference and
 
 ---
 
-## 🧠 Skills Gained from This Repo
+## Skills Gained from This Repo
 
 - Linux Fundamentals  
 - Command-line expertise  
@@ -92,17 +92,15 @@ If you are a beginner in cybersecurity, these notes can serve as a reference and
 
 ---
 
-## 📌 Status  
-🟦 **Active Learning** — More files will be added as I progress.
+## Status  
+ **Active Learning** — More files will be added as I progress.
 
 ---
 
-## ⭐ Acknowledgements  
+## Acknowledgements  
 Guided step‑by‑step by **ChatGPT** for structured learning, documentation, and project creation.
 
 ---
 
-## 🙋‍♀️ Author  
+## Author  
 **Nandini**  
-Cybersecurity Learner & SOC Analyst Aspirant  
-
